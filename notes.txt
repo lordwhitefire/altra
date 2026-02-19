@@ -1,0 +1,390 @@
+## SUMMARY NOTES ON PUBLIC INTERNATIONAL LAW
+
+These notes are just a guide to help the students in their reading. Students still have an obligation
+to refer to the main course materials authored by Shaw, Hillier or Harris.
+
+## JURISDICTION:
+
+In law, once the word Jurisdiction is mentioned, the mind automatically adverts to the jurisdiction of
+courts which is the power to adjudicate over and determine a dispute brought before the court.
+
+Jurisdiction however in this context refers to State jurisdiction. State Jurisdiction is an aspect or
+consequence of sovereignty. It is the competence a state has under international law to regulate the
+conduct of natural and artificial persons. It is the extent of a state’s power to regulate conduct or the
+consequence of events.
+
+State Jurisdiction usually takes the following forms:-
+
+Prescriptive Jurisdiction – This is the power of the state to make laws.
+
+Enforcement Jurisdiction – This is the power of the State to enforce laws or take executive actions.
+
+Adjudicative/Judicial Jurisdiction – This is the power to take judicial action or the application of
+municipal law by a court.
+
+State Jurisdiction is usually exercised territorially under International law but can, subject to
+principles of International law, be exercised extra territorially. International law therefore determines
+the possible limits of a State’s jurisdiction, that is, whether a state is permitted to exercise
+jurisdiction outside the state’s territory and how such extra territorial jurisdiction may be exercised.
+Municipal law, on the other hand prescribes the extent and the manner in which a state may assert
+jurisdiction. For example, while International law dictates whether jurisdiction can be exercised over
+offences or acts done outside the state’s territory or by persons not within the state’s territory,
+municipal law dictates how criminals may be prosecuted, what offences they may be prosecuted for
+and the prescribed punishment.
+
+International law however, does not give states the sovereign right to exercise jurisdiction in
+whatever circumstances the state so decides to exercise. Under International law, for a state to
+exercise jurisdiction, there must be a genuine connection between the state seeking to exercise
+jurisdiction and the subject matter over which the state seeks to exercise jurisdiction. A state has
+the right to exercise jurisdiction within the limits of sovereignty but is not entitled to encroach upon
+the sovereignty or sovereign rights of another state in so exercising except as prescribed by rules of
+International law.
+
+A state also has the right to recognize the corresponding right of jurisdiction inuring to other states.
+Jurisdiction implies respect for the corresponding rights and sovereignty of other states. In the
+Lotus case, the PCIJ stated that ‘a state may not exercise it power in any form in the territory of
+another state. Jurisdiction cannot be exercised by a state outside its territory except by virtue of a
+permissive rule of International law.
+
+We shall focus more on criminal jurisdiction under public international law.
+
+## PRINCIPLES OF INTERNATIONAL LAW ON CRIMINAL JURISDICTION:
+
+There are five general principles as identified by the Harvard Research Draft Convention on
+Jurisdiction with Respect to Crime 1935. These principles are not exhaustive but are mainly general
+
+principles used to categorise the type of jurisdiction exercisable by a state under International law.
+
+Territorial Jurisdiction:
+
+This refers to the power of a state to exercise jurisdiction over crimes committed within the territory
+of the state. Events occurring within a state’s territorial boundaries and to persons within the
+territory of the state are subject to the municipal law and jurisdiction of that state. This principles of
+jurisdiction is widely accepted within the international community.
+
+There are two categories of Territorial Jurisdiction principles –
+
+The Subjective Territorial principle – This is jurisdiction over crimes or acts commenced within a
+state’s territory even if the acts were completed or consummated elsewhere. See Treacy vs DPP;
+DPP vs Doot.
+
+Objective Territorial Principle – This is jurisdiction over acts completed or consummated within a
+state’s territory. The acts may have been planned or commenced in another state’s territory but
+were completed within the territory of the state seeking to exercise jurisdiction. See the Lotus case.
+
+The Nationality Principle:
+
+This is where a state seeks to exercise jurisdiction on the grounds that the acts were perpetrated by
+persons who are nationals of the state at the time the crime was committed.
+
+A state cannot enforce its laws within the territory of another state but can punish or exercise it
+jurisdiction over its nationals who commit offences abroad. A state under international law can grant
+nationality to anyone in accordance with its municipal law but there must be a genuine connection
+between the state and the person. See the Nottebohm case.
+
+The Passive Personality Principle:
+
+Under this principle, a state seeks to exercise jurisdiction where victims of an offence are the
+nationals of the state. The state, relying on this principle, exercises jurisdiction over the perpetrator
+of the offence. See the Cutting case; United States vs Yunis.
+
+The Protective/Security Principle:
+
+Under this Principle, states seek to exercise jurisdiction over acts done abroad which are
+considered injurious to the internal or external security of the state and the integrity or vital
+economic interests of the state. This principle is not as well defined as the other principles and has
+not received popular support within the international community. The British House of Lords relied
+on this principle in the Joyce vs DPP case.
+
+A principle called the Effects Doctrine and linked to the Protective/Security principle was developed
+by the United States. Under this doctrine, State can claim jurisdiction over acts committed abroad
+which produce harmful effects within the territory of the state. This doctrine has mostly been utilized
+by the United States in the area of US anti-trust law and anti-cartel law. See the Alcoa decision.
+This trend however is yet to be accepted by the International Community.
+
+The Universality Principle:
+
+Under this principle, any state can exercise jurisdiction irrespective of where the offence or act took
+place. It should be noted that International law is yet to come up with a definition of what constitutes
+an offence or a crime. However, certain acts have been identified and classified into various
+
+offences under international law despite the fact that unlike, municipal law, there is no concise
+definition of the word, offence or crime under international law.
+
+This principle applies to acts so heinous that they are considered inimical and detrimental to the
+interests of the International Community. The justification for the principle is to ensure the
+prevention of certain acts as a matter of International Public Policy.
+
+The character of the act or offence determines whether the universality principle will apply. The
+principle originally applied to acts constituting piracy on the high seas under international law and
+was then extended to other offences such as slavery, hijacking. Universality principle currently also
+applies to offences classified as Genocide, Crimes against Humanity, War crimes, etc, under
+international law. See the Eichmann case. This principle can also come into operation as a result of
+a treaty.
+
+Double Jeopardy
+
+Obviously, there are cases in which more than one country will seek to exercise jurisdiction under
+any of the principles enunciated above which can lead to situations of double jeopardy, that is, a
+situation where a person who has been tried and convicted or acquitted for a crimes is
+subsequently tried again for the same crime. Most municipal laws contain provisions similar to the
+legal principle of autre fois convict or autrefois acquit. In such situations where the principle applies,
+then a party who had previously been tried and convicted or acquitted by a state cannot be tried by
+another state for the same crime so long as the principle is applicable in the latter state.
+
+Extradition
+
+Extradition refers to a process whereby, pursuant to a treaty or agreement or upon the basis of
+reciprocity, a state surrenders to another state, at the request of the latter state, a person accused
+or convicted or a criminal offence committed against the laws of the requesting state provided the
+said requesting state has jurisdiction. The following points should be noted:
+
+Extradition is based on a treaty, agreement or principle of reciprocity.
+
+There must be a request for extradition from a state with jurisdiction.
+
+Extradition is justified under international law on the following grounds:
+
+To ensure that serious crimes do not go unpunished. There are instances where a person who has
+committed an offence, decided to flee the country where the offence was committed to another
+state that may lack the resources or even the jurisdiction to prosecute. In such situations, the
+second state will prefer to surrender the criminal to a state that can prosecute.
+
+The state on whose territory the offence was committed is usually in the best position to prosecute
+due to the availability of evidence, witnesses, etc in the state.
+
+In order for extradition to take two places, the following conditions must be satisfied:
+
+There must be an extraditable person. In other words, the person sought to be extradited must be
+an actual human being and not eligible to claim immunity.
+
+There must be an extraditable crime. Acts designated as political offences, military offences or
+religious offences do not constitute extraditable crimes. It should be pointed out that a political crime
+is not a terrorist crime. An example of a political crime is where for instance, a person is sought to
+be prosecuted for expressing his religious views or beliefs in a state that practices a different
+
+religion. Extraditable crimes are usually specified in the Extradition agreement. The offence for
+which extradition is sought must also constitute an offence in the two states as it is a general
+principle that a state should not prosecute an offender for any offence other than the one for which
+he was extradited.
+
+Asylum
+
+Asylum has been defined as the protection granted by a state to someone who has left their home
+country as a political refugee. A more general definition would be to say that Asylum is the
+protection granted by a state to a foreign citizen against his own state. Asylum involves two
+elements – Shelter and protection.
+
+Asylum can be territorial asylum, that is, asylum granted by a state on its own territory: or it could be
+extra territorial asylum, that is, asylum granted by a state within its consular premises or diplomatic
+missions situate within the territory of another state. Every state has a right to grant territorial
+asylum but this right is subject to the provisions of any extradition treaty entered into by the state.
+There is also a corresponding right to seek asylum inuring to individuals but the right of asylum may
+not be invoked in cases of prosecutions genuinely arising from non-political crimes or from acts
+contrary to the purpose and principles of the United Nations.
+
+The granting of territorial asylum is regarded as an aspect of state territorial sovereignty. The United
+Nations General Assembly adopted a resolution, the UN Declaration on Territorial Asylum, adopted
+on 14 December 1967 recommended a number of practices and standards to be adopted in
+granting asylum viz:
+
+A person seeking asylum from persecution should not be rejected at the frontier – the individual
+case should be considered properly. This is generally known as the principle of non-refoulement.
+
+If a state finds difficulty in granting asylum, international measures should be taken to try and
+alleviate the burden:
+
+Asylum should be respected by all other states.
+
+The principle of non-refoulement has been accepted as part of customary international law.
+
+There exists no general right to grant diplomatic asylum in cases of extra-territorial asylum.
+Extra-territorial asylum may be granted in exceptional cases such as:
+
+As a temporary measure to individuals in physical danger.
+
+Where there is a binding local customary rule that diplomatic asylum is permissible.
+
+Where there is a special treaty providing for extra-territorial asylum.
+
+## IMMUNITY
+
+Immunity under International law refers to immunity from enforcement of the law over certain
+people, things and events. It does not equate to immunity from the law itself. States, as stated
+above have jurisdiction within their territory, thus, persons within a state’s territory and their
+properties are within the state’s jurisdiction. However, although the law still governs within that
+state’s territory, international law recognizes that certain persons, by virtue of their positions, even
+though situate within a state’s territory, are entitled to be exempted from enforcement of the law.
+Immunity has been defined as the tool or principle that protects the sovereignty and independence
+of states by preventing them or their agents from being prosecuted before foreign courts.
+
+Individuals entitled to immunity from jurisdiction can thus avoid legal pursuits before the court of
+another state.
+
+Immunity does not mean non-justiciability. Non-justiciability means that a court lacks the power to
+exercise jurisdiction. A non-justiciable matter cannot be deliberated before a municipal court.
+Immunity arises where a court ordinarily can exercise jurisdiction but due to the identity or position
+of the party or parties involved, will refrain from exercising its jurisdiction. Immunity can be waived
+but waiver does not however apply to a non-justiciable matter.
+
+Immunity is applicable to the following category of persons under International law:
+
+State Immunity – enjoyed by foreign states or foreign head of states.
+
+Immunity enjoyed by foreign armed forces.
+
+Diplomatic Immunity – enjoyed by diplomatic agents or representatives and consuls of foreign
+states.
+
+Immunity enjoyed by International Organisations.
+
+State Immunity
+
+This derived from the personal immunity of sovereign heads of state. At International law, all
+sovereigns are considered equal and independent. The principle of sovereignty would be eroded if
+one sovereign could exercise power and authority over another sovereign. See Exchange vs
+McFaddon.
+
+State immunity has also been linked to the prohibition on one state interfering in the internal affairs
+of another state under international law. See Buck vs AG.
+
+Immunity can arise ratione personae or ratione materiae, that is, immunity is applicable because of
+the identity or category of persons involved or immunity is applicable because of the subject matter
+or the acts involved. In other words, in other to determine whether immunity ought to be granted,
+the identity of the person claiming immunity is first ascertained and then the act in question is also
+ascertained in appropriate cases.
+
+Traditionally, Immunity was absolute and applied to all actions of foreign states. See the Parlement
+Belge; Krajina vs the Tass Agency. However, with the growth of commercialization, it was argued
+that there ought to be a distinction between public acts of states (known as acts jure imperii) and
+private or commercial acts (jure gestionis). A restrictive view of immunity then developed in which
+case, only acts jure imperii were entitled to immunity. See Trendtex Corporation Ltd vs Central
+Bank of Nigeria; I Congreso del Partido. It should be noted however that the doctrine of absolute
+immunity applies to Heads of States and is usually extended to such members of their families that
+form part of their household.
+
+Foreign Armed Forces Immunity
+
+Members of the armed forces of a state enjoy a limited immunity from local jurisdiction while in the
+territory of another state. It should be pointed out that such immunity only applies where the foreign
+armed forces is in the territory of a state with the consent of the host state.
+
+The extent of immunity to be enjoyed and the nature of same depend on the circumstances under
+which the foreign armed forces were admitted into the territory of the Host state and the agreement
+between the two states. The status and immunities to be enjoyed by the armed forces are usually
+
+specified in the agreement. Usually, the host state as the receiving state is deemed to have
+impliedly agreed not to exercise jurisdiction in such a way as to impair the efficiency and integrity of
+the foreign armed forces.
+
+It has been said that the general rule is that the commander of the visiting forces has exclusive
+jurisdiction over offences committed within the area where the force is stationed or while members
+of the force are on duty.
+
+Diplomatic Immunity
+
+This is governed by the Vienna Convention on Diplomatic relations 1961. The Vienna Convention
+codifies existing rules of Customary law which previously governed diplomatic relations. The
+principles enshrined in the Vienna Convention have been codified in Nigeria into the Diplomatic
+Immunities and Privileges Act.
+
+It has been said that diplomatic immunity can be justified on the following basis:
+
+Personal Representatives – This theory is predicated on when diplomatic relations involved the
+sending of personal representatives of the sovereign. Immunity extended to these personal
+representatives were seen as an extension of sovereign immunity.
+
+Extra-Territoriality – This theory was founded on the belief that the offices and homes of the
+diplomat were to be treated as though they were the territory of the sending state. It should be
+pointed out that currently, although the offices and homes of the diplomats are accorded immunity,
+they are not accorded immunity because they are considered the territory of the sending state.
+
+Functional Necessity – Privileges and immunities attaching to diplomats are necessary to enable
+them perform their diplomatic functions effectively. It is necessary for a diplomat to move freely and
+negotiate on behalf of their governments unhindered and also send back reports to their
+governments without fear.
+
+There is no right to diplomatic relations. Diplomatic relations exist only by consent and a receiving
+state may declare any member of a diplomatic mission persona non grata. Where this happens, the
+sending state must withdraw the diplomatic agent or run the risk of the receiving state withdrawing
+immunity. See Article 9 of the Vienna Convention.
+
+Article 22 of the Vienna Convention provides that the premises of the Diplomatic Mission, including
+the Embassy buildings, compound and the residence of the head of the mission are inviolable.
+Agents of the receiving states wishing to gain access to the premises of the Diplomatic Mission
+must first seek the consent of the Head of the mission. The receiving state is also under a duty to
+provide adequate and all reasonable protection to the diplomatic mission.
+
+There are five main categories of persons entitled to immunity under the Vienna Convention –
+
+The head of the Mission; and
+
+Members of the diplomatic staff.
+
+The head of the mission is usually the Ambassador. The appointment of the head of the mission
+requires the consent of the receiving state. The sending state, also has the obligation of sending
+details of all members of the diplomatic mission to the receiving state in order to be entitled to
+invoke immunity.
+
+The head of the mission and the members of the diplomatic staff are referred to as diplomatic
+agents and receive the highest level of immunity. The person of a diplomatic agent is inviolable and
+they shall not be subject to any form of arrest or detention and the receiving state is under a duty to
+ensure their protection- Article 29. They also enjoy complete immunity from criminal jurisdiction of
+the receiving state and also enjoy extensive immunity from civil and administrative jurisdiction –
+Article 31. See also Articles 33 to 36.
+
+These immunities extend to their families if they are not nationals of the receiving state – Article 37.
+Article 30 deals with the immunity extended to the premises of a diplomatic agent, his papers and
+correspondence. Article 32 deals with waiver of immunity while Article 38 provides for the immunity
+to be enjoyed by a diplomatic agent who is a national of the receiving state.
+
+The members of the administrative and technical staff.
+
+The members of the administrative and technical staff and their families enjoy similar immunities to
+that enjoyed by diplomatic agents provided that these members of the administrative and technical
+staff and their families are not nationals of the receiving state. While the immunities enjoyed by
+members of the administrative and technical staff (who are not nationals), with respect to immunity
+from criminal jurisdiction, are as extensive as that enjoyed by diplomatic agents, they only enjoy
+immunity from civil and administrative jurisdiction in respect of official acts. Acts performed outside
+the course of their duties are not entitled to immunity.
+
+The members of the service staff.
+
+Members of the service staff who are not nationals of the receiving state enjoy immunity in respect
+of acts performed in the course of their duties.
+
+Private Servants.
+
+Private servants who are not nationals of the receiving state enjoy exemption from local taxation
+only unless there is a specific agreement extending the immunity to be applicable to them.
+
+Article 24 of the Vienna Convention makes the archives and documents of the diplomatic mission
+inviolable. Article 27 provides for free communication and mandates the receiving state to allow and
+protect freedom of communication for the mission. It also makes the official correspondent of the
+mission inviolable and stipulates that the diplomatic bag shall not be opened or detained.
+
+Consular immunity extends to consulates, vice consulates and consular posts. A consulate is the
+office of a consul and is a subordinate branch of a diplomatic mission situate in the same country
+but in a different part of the country. The job of a consular officer is to represent and deal with
+nationals of the sending state. Consular officers and the consulate also enjoys certain immunities
+but not as extensive as the immunities enjoyed by diplomatic agents. The Vienna Convention on
+Consular Relations deals with consular immunity.
+
+The law on consular relations is similar to the law on diplomatic relations and exists only by
+agreements between two states. Similarly, a consular official can be declared persona non grata.
+The Consular premises, archives and documents are inviolable and consular staff are entitled to
+freedom of movement subject to the requirements of national security. They also enjoy freedom of
+communication. Consular officials do not however enjoy complete immunity from criminal
+jurisdiction like diplomatic agents. Consular staff cannot be arrested or detained except where the
+crime committed is a grave crime. They can also be subjected to criminal proceedings. Immunity
+from civil and administrative jurisdiction can only apply to acts performed in the exercise of consular
+functions. Members of the consular staff’s family do not enjoy significant immunities.
+
+International Organisations.
+
+There is no general law applicable to the immunity enjoyed by international organisations or
+governing the relations between these organisations and their host states. The Immunity and
+privileges to be enjoyed by international organisations are usually the subject matter of specific
+agreements between these organisations and their host states. These immunities and privileges
+are also usually found in the constituent charter establishing such organisations and which are
+binding on states who are signatories to the charter.
